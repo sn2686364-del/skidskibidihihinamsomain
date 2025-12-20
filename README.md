@@ -1,2 +1,2 @@
-# skidskibidihihinamsomain
+# skidskibidihihi
 userscript
